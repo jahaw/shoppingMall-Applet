@@ -1,0 +1,118 @@
+// 20170408100521
+// https://rapi-staging.bayekeji.com/products
+
+{
+  "data": [
+    {
+      "id": "91",
+      "type": "products",
+      "attributes": {
+        "name": "赛路美尔森空气负离子疗养机 N100",
+        "sku": "100805900116",
+        "image-url": "https://baye-media.oss-cn-shanghai.aliyuncs.com/uploads/product_image_files/161206/6be9e57e-a19d-4c2d-935e-c5e87013b659.jpg",
+        "uid": "1e6b487931e41281d3c9e8ef82f90338",
+        "unit": "个",
+        "promotion-url": "https://baye-media.oss-cn-shanghai.aliyuncs.com/uploads/product_promotion_images/170113/797c83df-2f21-4038-8375-a2fa95318d8c.jpg",
+        "category-id": 17,
+        "flag": "最热",
+        "desc": [
+          [
+            "http://baye-media.oss-cn-shanghai.aliyuncs.com/uploads/media_files/161206/1b59d9c0-fcd0-4820-b214-e33a68b48b96.jpg",
+            "750",
+            "1819"
+          ],
+          [
+            "http://baye-media.oss-cn-shanghai.aliyuncs.com/uploads/media_files/161206/8d067347-aa18-48de-a84e-c22e59647503.jpg",
+            "750",
+            "1819"
+          ],
+          [
+            "http://baye-media.oss-cn-shanghai.aliyuncs.com/uploads/media_files/161206/d1c1bd24-20ee-437e-9100-1fb65efff471.jpg",
+            "750",
+            "1819"
+          ],
+          [
+            "http://baye-media.oss-cn-shanghai.aliyuncs.com/uploads/media_files/161206/922c4d76-0c55-4d75-83e6-1b0278dc2578.jpg",
+            "750",
+            "1819"
+          ],
+          [
+            "http://baye-media.oss-cn-shanghai.aliyuncs.com/uploads/media_files/161206/604bb0c0-a5a3-49ea-bd8c-95cd20691818.jpg",
+            "750",
+            "1819"
+          ],
+          [
+            "http://baye-media.oss-cn-shanghai.aliyuncs.com/uploads/media_files/161206/add1a264-3429-46ee-86ba-60e353bae477.jpg",
+            "750",
+            "1819"
+          ],
+          [
+            "http://baye-media.oss-cn-shanghai.aliyuncs.com/uploads/media_files/161206/94ecd6a9-0000-4fcf-97dc-d9302f79d91c.jpg",
+            "750",
+            "1819"
+          ],
+          [
+            "http://baye-media.oss-cn-shanghai.aliyuncs.com/uploads/media_files/161206/9dd2c67d-6bf5-4bd2-87a1-040165ca99d9.jpg",
+            "750",
+            "1819"
+          ],
+          [
+            "http://baye-media.oss-cn-shanghai.aliyuncs.com/uploads/media_files/161206/77a8b85c-fb92-464b-b17c-45d060f8e275.jpg",
+            "750",
+            "1819"
+          ],
+          [
+            "http://baye-media.oss-cn-shanghai.aliyuncs.com/uploads/media_files/161206/695f15f4-8dee-42f9-bd86-2277d2b5cbfc.jpg",
+            "750",
+            "1819"
+          ],
+          [
+            "http://baye-media.oss-cn-shanghai.aliyuncs.com/uploads/media_files/161206/223411f4-1697-4bbc-a9b9-405b4d6961dd.jpg",
+            "750",
+            "1819"
+          ],
+          [
+            "http://baye-media.oss-cn-shanghai.aliyuncs.com/uploads/media_files/161206/ef4631b3-ecd9-47d0-acac-bf87c93adbb4.jpg",
+            "750",
+            "1819"
+          ]
+        ],
+        "baye-price": "9800.0",
+        "member-price": "9800.0"
+      }
+    },
+    {
+      "id": "223",
+      "type": "products",
+      "attributes": {
+        "name": "爱妮雅干果礼盒(4罐装)",
+        "sku": "100803500117",
+        "image-url": "https://baye-media.oss-cn-shanghai.aliyuncs.com/uploads/product_image_files/170215/e962142f-90a1-445d-b024-ec333c0b9202.jpg",
+        "uid": "b19e39e75487e53cd588eb3356dfa654",
+        "unit": "份",
+        "promotion-url": "https://baye-media.oss-cn-shanghai.aliyuncs.com/uploads/product_promotion_images/170215/755b1ed9-b6d7-4535-9991-04705279503d.png",
+        "category-id": 17,
+        "flag": "火爆",
+        "desc": [
+          [
+            "https://baye-media.oss-cn-shanghai.aliyuncs.com/uploads/media_files/161219/671547a9-3172-4ed3-b36e-acbd20b2f6ea.jpg",
+            "750",
+            "1957"
+          ],
+          [
+            "https://baye-media.oss-cn-shanghai.aliyuncs.com/uploads/media_files/161219/4f74217a-b89c-4299-9812-39a3bf8a24f5.jpg",
+            "750",
+            "1957"
+          ],
+          [
+            "https://baye-media.oss-cn-shanghai.aliyuncs.com/uploads/media_files/161219/02087bbb-7327-4c39-83d5-5a30fe13bb61.jpg",
+            "750",
+            "1957"
+          ]
+        ],
+        "baye-price": "268.0",
+        "member-price": "298.0"
+      }
+    }
+  ]
+}
